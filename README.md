@@ -43,7 +43,7 @@
 * [Conrad Sanderson](https://conradsanderson.id.au)
 * [Ryan Curtin](https://www.ratml.org/)
 
-**NOTE:** please see the [Questions](http://arma.sourceforge.net/faq.html) page before contacting the developers 
+**NOTE:** please see the [Questions](https://arma.sourceforge.net/faq.html) page before contacting the developers 
 
 ---
 
@@ -51,6 +51,6 @@
 - [ensmallen](https://ensmallen.org) - fast non-linear numerical optimisation library
 - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms
 - [Bandicoot](https://coot.sourceforge.io) - C++ library for fast GPU linear algebra and scientific computing
-<!-- - [PyArmadillo](https://pyarma.sourceforge.io) - linear algebra library for Python with Matlab-like syntax --> <!--([repo](https://gitlab.com/jason-rumengan/pyarma/))-->
 - [CARMA](https://github.com/RUrlus/carma) - bidirectional interface between Python and Armadillo
+<!-- - [PyArmadillo](https://pyarma.sourceforge.io) - linear algebra library for Python with Matlab-like syntax --> <!--([repo](https://gitlab.com/jason-rumengan/pyarma/))-->
 
