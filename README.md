@@ -3,13 +3,13 @@
 &nbsp;
 [![number of downloads](https://img.shields.io/sourceforge/dt/arma.svg)](http://arma.sourceforge.net/download.html)
 
-* [Download](http://arma.sourceforge.net/download.html) latest version
-
-* [Documentation](http://arma.sourceforge.net/docs.html) (with code examples)
-
-* [Bug reports and frequently asked questions](http://arma.sourceforge.net/faq.html)
-
 * [Source code repo](https://gitlab.com/conradsnicta/armadillo-code) (GitLab)
+
+* [Download](https://arma.sourceforge.net/download.html) latest version
+
+* [Documentation](https://arma.sourceforge.net/docs.html) (with code examples)
+
+* [Bug reports and frequently asked questions](https://arma.sourceforge.net/faq.html)
 
 ---
 
@@ -40,8 +40,8 @@
 ---
 
 # Developers
-* [Conrad Sanderson](http://conradsanderson.id.au)
-* [Ryan Curtin](http://www.ratml.org/)
+* [Conrad Sanderson](https://conradsanderson.id.au)
+* [Ryan Curtin](https://www.ratml.org/)
 
 **NOTE:** please see the [Questions](http://arma.sourceforge.net/faq.html) page before contacting the developers 
 
@@ -50,6 +50,7 @@
 # Related Projects
 - [ensmallen](https://ensmallen.org) - fast non-linear numerical optimisation library
 - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms
-- [PyArmadillo](https://pyarma.sourceforge.io) - linear algebra library for Python with Matlab-like syntax <!--([repo](https://gitlab.com/jason-rumengan/pyarma/))-->
+- [Bandicoot](https://coot.sourceforge.io) - C++ library for fast GPU linear algebra and scientific computing
+<!-- - [PyArmadillo](https://pyarma.sourceforge.io) - linear algebra library for Python with Matlab-like syntax --> <!--([repo](https://gitlab.com/jason-rumengan/pyarma/))-->
 - [CARMA](https://github.com/RUrlus/carma) - bidirectional interface between Python and Armadillo
 
